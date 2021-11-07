@@ -1,4 +1,4 @@
 package main
 
-// ini fitur gofood dengan diskon gila-gilaan
+// ini fitur gofood dengan diskon yang oke
 // gofood skrg udah bisa ngasih rekomendasi yg 100% akurat
